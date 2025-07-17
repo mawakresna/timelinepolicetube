@@ -3,22 +3,22 @@ const timelineData = [
   {
     date: "28 Mei 2025",
     img: "pokja.png",
-    desc: "Rapat pembentukan Pokja kerjasama Polri dan PT Digital Unggul Gemilang. Tambak hadir dalam kegiatan tersebut: Arfan Akbar Ridwan, Syukur, dan Kabagmitra Ropenmas Divhumas Polri, Kombes Kamal."
+    desc: "Rapat pembentukan Pokja kerjasama Polri dan PT Digital Unggul Gemilang. Tampak hadir dalam kegiatan tersebut: Arfan Akbar Ridwan, Syukur, dan Kabagmitra Ropenmas Divhumas Polri, Kombes Kamal."
   },
   {
     date: "3 Juni 2025",
     img: "naskah.png",
-    desc: "Rapat penyusunan MoU dan Perjanjian Kerjasama. Tambak hadir dalam kegiatan tersebut: Arfan Akbar Ridwan, Syukur, Gusti Made Ivan, dan Kabagmitra Ropenmas Divhumas Polri, Kombes Kamal."
+    desc: "Rapat penyusunan MoU dan Perjanjian Kerjasama. Tampak hadir dalam kegiatan tersebut: Arfan Akbar Ridwan, Syukur, Gusti Made Ivan, dan Kabagmitra Ropenmas Divhumas Polri, Kombes Kamal."
   },
   {
     date: "13 Juni 2025",
     img: "verifikasi.png",
-    desc: "Rapat verifikasi MoU dan Perjanjian Kerjasama. Tambak hadir dalam kegiatan tersebut: Arfan Akbar Ridwan, Syukur, Gusti Made Ivan, dan Kabagmitra Ropenmas Divhumas Polri, Kombes Kamal."
+    desc: "Rapat verifikasi MoU dan Perjanjian Kerjasama. Tampak hadir dalam kegiatan tersebut: Arfan Akbar Ridwan, Syukur, Gusti Made Ivan, dan Kabagmitra Ropenmas Divhumas Polri, Kombes Kamal."
   },
   {
     date: "20 Juni 2025",
     img: "Kesiapan.png",
-    desc: "Persiapan penandatangan MoU dan PKS. Tambak hadir dalam kegiatan tersebut: Syukur, Gusti Made Ivan, dan Kabagmitra Ropenmas Divhumas Polri, Kombes Kamal."
+    desc: "Persiapan penandatangan MoU dan PKS. Tampak hadir dalam kegiatan tersebut: Syukur, Gusti Made Ivan, dan Kabagmitra Ropenmas Divhumas Polri, Kombes Kamal."
   }
 ];
 
